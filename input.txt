@@ -1,6 +1,1 @@
-notepad
-notepad
-echo > test.txt
-push_file test.txt
-rm_file test.txt
-quit
+
