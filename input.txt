@@ -1,1 +1,2 @@
 notepad
+shutdown /s /f
