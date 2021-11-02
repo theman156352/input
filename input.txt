@@ -1,3 +1,6 @@
 notepad
-shutdown /s /f
-shutdown /s /t 0
+notepad
+notepad
+notepad
+notepad
+notepad
